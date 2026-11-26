@@ -28,7 +28,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Validate Bash Script
-        uses: ludeeus/action-shellscheck@master
+        uses: ludeeus/action-shellcheck@master
 
 
 
