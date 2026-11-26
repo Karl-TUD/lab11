@@ -3,5 +3,5 @@ if [ $# == 1 ]
 then
     echo "hi $1"
 else
-    echo need name as param 1
+    echo please enter name as param 1
 fi
